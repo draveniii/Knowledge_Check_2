@@ -1,0 +1,15 @@
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.AssemblyInfoInputs.cache
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.AssemblyInfo.cs
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.csproj.CoreCompileInputs.cache
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.sourcelink.json
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\bin\Debug\net8.0\Knowledge_Check_2.exe
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\bin\Debug\net8.0\Knowledge_Check_2.deps.json
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\bin\Debug\net8.0\Knowledge_Check_2.runtimeconfig.json
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\bin\Debug\net8.0\Knowledge_Check_2.dll
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\bin\Debug\net8.0\Knowledge_Check_2.pdb
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.dll
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\refint\Knowledge_Check_2.dll
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.pdb
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\Knowledge_Check_2.genruntimeconfig.cache
+C:\Users\drave\Documents\02_School\03_CodeU\03_Pathway\Knowledge_Check_2\Knowledge_Check_2\Knowledge_Check_2\obj\Debug\net8.0\ref\Knowledge_Check_2.dll
